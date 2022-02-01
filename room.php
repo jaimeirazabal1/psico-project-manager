@@ -6,7 +6,7 @@
     <script type="text/javascript">
       window.onload = () => {
         const api = new JitsiMeetExternalAPI("8x8.vc", {
-          roomName: "vpaas-magic-cookie-96f8e8f1da6b444b8713ddadc08f0639/SampleAppMarginalPeacesIronIn",
+          roomName: "",
           parentNode: document.querySelector('#jaas-container')
         });
       }
